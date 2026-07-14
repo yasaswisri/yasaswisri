@@ -12,7 +12,7 @@
 
 <td>
 
-# Hi, I'm Kathinokkula Yasaswi Sri 👋
+# Hi, I'm Yasaswi Sri 👋
 
 **AI & ML Engineer • Python Developer**
 
