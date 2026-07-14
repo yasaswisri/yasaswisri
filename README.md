@@ -209,25 +209,6 @@ certifications:
 </tr>
 
 </table>
-#### 🐦 AI-Powered Tweet Optimization System
-> AI application for sentiment analysis and optimized tweet generation using NLP.
-
-`Python` `Flask` `Twitter API` `NLP`
-
-</td>
-
-<td width="50%" valign="top">
-
-#### 🫁 Pneumonia Detection using CNN
-> Deep Learning model for automated pneumonia detection from chest X-ray images.
-
-`Python` `CNN` `Deep Learning` `Medical AI`
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -287,31 +268,13 @@ certifications:
 ```
 
 ---
-
-### `~/connect`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yasaswi-kathinokkula-75b75a342">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yasaswisri2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yasaswisri">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 ### `~/beyond-code` — When I'm not coding
 
-```
-📡  Volunteer       → IEEE Madhya Pradesh Section (Social Media Team)
-🏎️  Coordinator     → Go-kart International Racing 2k25
-🎙️  Anchor & Host   → INFORIA 2K25 (College Tech Fest)
-🏆  Winner          → Pool Handball
+```text
+📖  Leader            → Storytellers Circle
+🤝  Volunteer         → Rotary Club Fundraising Initiative
+📚  Reader            → Passionate about reading books
+✈️  Traveller         → Exploring new places and cultures
 ```
 
 ---
