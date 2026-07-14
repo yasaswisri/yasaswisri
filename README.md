@@ -302,7 +302,7 @@ certifications:
   <img src="https://img.shields.io/badge/──_GitHub_──-0d1117?style=for-the-badge&logo=github&logoColor=fff" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/mdyusuf0">
+<a href="https://www.linkedin.com/in/yasaswi-kathinokkula-75b75a342/">
   <img src="https://img.shields.io/badge/──_LinkedIn_──-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" />
 </a>
 &nbsp;
@@ -322,9 +322,9 @@ certifications:
   "Don't just write code — build things that matter to real people."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=mdyusuf0&color=22d3ee&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=yasaswisri&color=22d3ee&style=flat-square&label=profile+views)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/mdyusuf0?style=flat-square&color=22d3ee&label=followers)
+![Followers](https://img.shields.io/github/followers/yasaswisri?style=flat-square&color=22d3ee&label=followers)
 
 </div>
 
