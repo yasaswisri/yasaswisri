@@ -1,57 +1,30 @@
-<table align="center" border="1" cellspacing="0" cellpadding="0"
-style="border-collapse:collapse;border:1px solid #4b5563;width:720px;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+</p>
 
+<table align="center">
 <tr>
+<td width="140">
 
-<td width="120" align="center"
-style="border-right:1px solid #4b5563;padding:0;">
-
-<img src="Image.jpeg"
-width="90"
-height="90"
-style="display:block;" />
+<img src="YOUR_PROFILE_PHOTO_URL" width="120"/>
 
 </td>
 
-<td style="padding:10px 16px;">
+<td>
 
-<h2 style="margin:0;
-font-size:20px;
-font-weight:700;
-color:white;">
+# Hi, I'm Yasaswi Sri 👋
 
-Hi, I'm Yasaswi Sri 👋
-
-</h2>
-
-<hr style="border:none;
-border-top:1px solid #4b5563;
-margin:8px 0;">
-
-<p style="margin:0;
-font-size:16px;
-color:white;">
-
-<b>AI & ML Engineer</b>
-•
-<b>Python Developer</b>
-
-</p>
-
-<p style="margin-top:8px;
-margin-bottom:0;
-font-size:15px;
-color:#d1d5db;">
+**AI & ML Engineer • Python Developer**
 
 Building intelligent AI applications that solve real-world problems.
 
-</p>
-
 </td>
-
 </tr>
-
 </table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+CareerPilot+AI+%7C+Open+to+Collaborate;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Generative+AI;AI+Engineer+%7C+Building+Real-World+AI+Applications;Personalized+Predictive+Healthcare+Project;Always+Learning+%7C+Always+Building" />
+</p>
 
 
 ## 👩‍💻 About Me
