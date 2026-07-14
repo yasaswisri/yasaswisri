@@ -5,7 +5,7 @@
 <tr>
 <td width="180">
 
-<img src="https://raw.githubusercontent.com/yasaswisri/yasaswisri/refs/heads/main/Image.jpeg" width="120"/>
+<img src="https://raw.githubusercontent.com/yasaswisri/yasaswisri/refs/heads/main/Image.jpeg" width="180"/>
 
 </td>
 
