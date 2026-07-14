@@ -4,7 +4,7 @@
 
 <table align="center">
 <tr>
-<td width="140">
+<td width="120">
 
 <img src="https://raw.githubusercontent.com/yasaswisri/yasaswisri/refs/heads/main/Image.jpeg" width="120"/>
 
