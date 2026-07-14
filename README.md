@@ -23,7 +23,7 @@ Building intelligent AI applications that solve real-world problems.
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Python;Machine+Learning;Generative+AI;Django;Flask;LLMs;AI+Agents;Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+CareerPilot+AI+%7C+Open+to+Collaborate;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Generative+AI;AI+Engineer+%7C+Building+Real-World+AI+Applications;Personalized+Predictive+Healthcare+Project;Always+Learning+%7C+Always+Building" />
 </p>
 
 ## 👩‍💻 About Me
