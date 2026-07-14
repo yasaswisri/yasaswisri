@@ -1,20 +1,34 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Python+Developer;Generative+AI+Enthusiast;Building+Intelligent+Applications;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yasaswisri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-<p align="center">
-<a href="https://github.com/yasaswisri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/yasaswi-kathinokkula-75b75a342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:yasaswisri2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
-<h1 align="center">Hi 👋, I'm Kathinokkula Yasaswi Sri Satya Meenakshi</h1>
-<h3 align="center">AI & ML Engineer | Python Developer | Generative AI Enthusiast</h3>
+
+<table align="center">
+<tr>
+<td width="140">
+
+<img src="YOUR_PROFILE_PHOTO_URL" width="120"/>
+
+</td>
+
+<td>
+
+# Hi, I'm Kathinokkula Yasaswi Sri 👋
+
+**AI & ML Engineer • Python Developer**
+
+Building intelligent AI applications that solve real-world problems.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-Building intelligent AI applications that solve real-world problems.
+
+### 🤖 Machine Learning • Generative AI • Django • Python
+
 </p>
+
+---
 
 ---
 
