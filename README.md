@@ -3,9 +3,9 @@
 </p>
 <table align="center">
 <tr>
-<td width="160">
+<td width="180">
 
-<img src="YOUR_PROFILE_PHOTO_URL" width="120"/>
+<img src="https://raw.githubusercontent.com/yasaswisri/yasaswisri/refs/heads/main/Image.jpeg" width="120"/>
 
 </td>
 
