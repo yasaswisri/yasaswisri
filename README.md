@@ -72,7 +72,6 @@ certifications:
 ```
 
 ---
-
 ### `~/stack` — What I build with
 
 <div align="center">
@@ -80,28 +79,31 @@ certifications:
 **— Languages —**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **— Frontend —**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **— Backend —**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Twitter API](https://img.shields.io/badge/Twitter%20API-1DA1F2?style=flat-square&logo=x&logoColor=white)
 
-**— AI / ML —**
+**— AI / Machine Learning —**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FFB000?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-E91E63?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-34A853?style=flat-square&logo=google&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-F48FB1?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **— Libraries —**
 
@@ -122,8 +124,12 @@ certifications:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 </div>
+
+
+
 ---
 
 ### `~/projects` — Things I've built
@@ -292,7 +298,7 @@ certifications:
 
 <div align="center">
 
-<a href="https://github.com/mdyusuf0">
+<a href="https://github.com/yasaswisri">
   <img src="https://img.shields.io/badge/──_GitHub_──-0d1117?style=for-the-badge&logo=github&logoColor=fff" />
 </a>
 &nbsp;
@@ -300,7 +306,7 @@ certifications:
   <img src="https://img.shields.io/badge/──_LinkedIn_──-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" />
 </a>
 &nbsp;
-<a href="mailto:yusuf.rgpv@gmail.com">
+<a href="mailto:Yasaswisri2004@gmail.com">
   <img src="https://img.shields.io/badge/──_Email_──-ea4335?style=for-the-badge&logo=gmail&logoColor=fff" />
 </a>
 
