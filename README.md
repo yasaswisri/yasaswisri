@@ -6,7 +6,7 @@
 <tr>
 <td width="140">
 
-<img src="YOUR_PROFILE_PHOTO_URL" width="120"/>
+<img src="https://raw.githubusercontent.com/yasaswisri/yasaswisri/refs/heads/main/Image.jpeg" width="120"/>
 
 </td>
 
