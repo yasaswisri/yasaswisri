@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+%26+ML+Engineer+%7C+B.Tech+CSE+(AI+%26+ML)+%40+JNTUK;Python+%C2%B7+Machine+Learning+%C2%B7+Django+%C2%B7+Generative+AI;Open+to+Work+%7C+Building+AI+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+%26+ML+Engineer+%7C+B.Tech+CSE+(AI+%26+ML)+%40+JNTUK;Python+%C2%B7+Machine+Learning+%C2%B7+Django+%C2%B7+Generative+AI;Building+AI+Applications+%7C+Open+to+Work)](https://git.io/typing-svg)
 
 </div>
 
