@@ -1,42 +1,57 @@
-<!-- ================= HEADER CARD ================= -->
+<table align="center" border="1" cellspacing="0" cellpadding="0"
+style="border-collapse:collapse;border:1px solid #4b5563;width:720px;">
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td width="120" align="center">
-<img src="Image.jpeg" width="95" height="95" alt="Profile"/>
+<td width="120" align="center"
+style="border-right:1px solid #4b5563;padding:0;">
+
+<img src="Image.jpeg"
+width="90"
+height="90"
+style="display:block;" />
+
 </td>
 
-<td style="padding:10px 18px;">
+<td style="padding:10px 16px;">
 
-<h1 align="left">
+<h2 style="margin:0;
+font-size:20px;
+font-weight:700;
+color:white;">
+
 Hi, I'm Yasaswi Sri 👋
-</h1>
 
-<p>
-<b>AI & ML Engineer</b> • <b>Python Developer</b>
+</h2>
+
+<hr style="border:none;
+border-top:1px solid #4b5563;
+margin:8px 0;">
+
+<p style="margin:0;
+font-size:16px;
+color:white;">
+
+<b>AI & ML Engineer</b>
+•
+<b>Python Developer</b>
+
 </p>
 
-<p>
+<p style="margin-top:8px;
+margin-bottom:0;
+font-size:15px;
+color:#d1d5db;">
+
 Building intelligent AI applications that solve real-world problems.
+
 </p>
 
 </td>
 
 </tr>
+
 </table>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Python+Developer;Generative+AI+Enthusiast;Machine+Learning;Open+to+Work"/>
-
-</div>
-
-<br>
-
----
 
 
 ## 👩‍💻 About Me
