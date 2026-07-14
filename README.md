@@ -34,13 +34,13 @@
 ### `~/about` — A bit about me
 
 ```yaml
-name       : Kathinokkula Yasaswi Sri Satya Meenakshi
-location   : Rajahmundry, Andhra Pradesh, India 🇮🇳
-education  : B.Tech CSE (AI & ML) @ Jawaharlal Nehru Technological University, Kakinada (RIET)
-currently  : Building AI-powered applications using Machine Learning, Generative AI & Django
-interests  : Artificial Intelligence · Machine Learning · Generative AI · Python · Open Source
+Name       : Kathinokkula Yasaswi Sri Satya Meenakshi
+Location   : Andhra Pradesh, India 🇮🇳
+Education  : B.Tech CSE (AI & ML) @ Jawaharlal Nehru Technological University,Kakinada (RIET)
+Currently  : Building AI-powered applications using Machine Learning, Generative AI & Django
+Interests  : Artificial Intelligence · Machine Learning · Generative AI · Python · Open Source
 
-skills:
+Skills:
   - Python
   - Machine Learning
   - Deep Learning (CNN)
@@ -52,17 +52,17 @@ skills:
   - HTML · CSS
   - Git · GitHub
 
-projects:
+Projects:
   - Personalized Predictive Healthcare using Machine Learning & Generative AI
   - AI-Powered Tweet Optimization System
   - Pneumonia Detection using CNN
 
-internships:
+Internships:
   - Skill Dzire — Artificial Intelligence Intern
   - Infosys Springboard Internship 6.0
   - Data Valley Pvt. Ltd. — Full Stack Development Intern
 
-certifications:
+Certifications:
   - AI-Based Content Marketing Optimizer — Infosys Springboard
   - AI/ML for Geodata Analysis — ISRO
   - Artificial Intelligence — Skill Dzire
